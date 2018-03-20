@@ -8,6 +8,6 @@ Paclet[
   Loading -> Automatic,
   Extensions -> {
    { "Documentation", Language -> "English"},
-   { "Kernel", Symbols -> { "SendFeedback", "CrashDumpFiles", "$CrashDumpsDirectory" }, Context -> {"FeedbackTools`"} }
+   { "Kernel", Symbols -> { "FeedbackTools`SendFeedback", "FeedbackTools`CrashDumpFiles", "FeedbackTools`$CrashDumpsDirectory" }, Context -> {"FeedbackTools`"} }
   }
 ]
